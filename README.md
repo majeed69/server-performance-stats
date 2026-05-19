@@ -2,6 +2,10 @@
 
 A lightweight Bash script to monitor Linux server performance metrics on AWS EC2.
 
+## Project URL
+
+https://roadmap.sh/projects/server-stats
+
 ## Features
 
 - CPU Usage Monitoring
